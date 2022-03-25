@@ -132,3 +132,10 @@ nombre = 'gustavo '
 nombre.upper()
 nombre.capitalize()
 nombre.replace('g', 'G')
+>>> nombre[0]
+'g'
+>>> nombre[0:3]
+'gus'
+>>> nombre[:3]
+>>> nombre[::-1]
+' ovatsug'
